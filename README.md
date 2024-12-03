@@ -1,5 +1,7 @@
 # Como rodar o projeto:
 - Clonar o repositório
+## No momento, é necessário ter o .env com a string de conexão do MongoDB ( Atlas ) para funcionar efetivamente.
+
 ### Node: 20.16.0
 ## Frontend
 - Abrir um terminal e inserir:
